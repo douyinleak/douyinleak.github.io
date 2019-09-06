@@ -24,6 +24,8 @@
 到贴吧私信N526FE(手动补充地球)，报上你的GitHub账号，收到邀请申请后点击确认即可加入。
 
 ## 许可证
+![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+  
 如无特别声明，本站内容均采用知识共享[署名-非商业性使用-相同方式共享 4.0 国际](http://creativecommons.org/licenses/by-nc-sa/4.0/)许可协议进行许可。（要让你的内容使用其他许可证，请在文末声明）
 
 ## 友情链接
