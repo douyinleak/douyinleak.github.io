@@ -3,7 +3,7 @@
 
 该网站由反抖音人士创建的仓库。
 ## 目录
-[毁歌名单](https://github.com/douyinleak/douyinleak.github.io/tree/master/songs)
+[被抖音毁掉的歌曲/听了令人极度反感的抖音歌曲](https://github.com/douyinleak/douyinleak.github.io/tree/master/songs)
 
 [小学生家族](https://github.com/douyinleak/douyinleak.github.io/tree/master/nc)
 
