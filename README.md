@@ -7,7 +7,7 @@
 
 [小学生家族](https://github.com/douyinleak/douyinleak.github.io/tree/master/nc)
 
-吧友提供的视频（请移步至issues）
+吧友提供的视频/图片（请移步至issues）
 
 （更多内容等吧友来补充）
 
