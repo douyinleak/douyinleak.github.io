@@ -8,6 +8,8 @@ Handclap - （抖音《98k》）
 
 Zombie - The Cranberries（万物皆可Supreme）
 
+Fade - Alen Walker
+
 霸王别姬 - 面具锋
 
 多喝热水 - 花粥
