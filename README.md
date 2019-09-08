@@ -26,7 +26,7 @@
 ## 许可证
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
   
-如无特别声明，本站内容均采用知识共享[署名-非商业性使用-相同方式共享 4.0 国际](http://creativecommons.org/licenses/by-nc-sa/4.0/)许可协议进行许可。（要让你的内容使用其他许可证，请在文末声明）
+如无特别声明，本站内容均采用知识共享[署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可协议进行许可。（要让你的内容使用其他许可证，请在文末声明）
 
 ## 友情链接
 [反抖音吧](https://tieba.baidu.com/f?kw=%E5%8F%8D%E6%8A%96%E9%9F%B3&ie=utf-8)
