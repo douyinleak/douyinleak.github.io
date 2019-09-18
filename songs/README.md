@@ -4,9 +4,9 @@
 
 98K - Dr.Ethan（抖音上的《98k》与我何干？？？？）
 
-Handclap - （抖音《98k》）
+Handclap - （真.抖音《98k》）
 
-Zombie - The Cranberries（万物皆可Supreme）
+Zombie - The Cranberries（万物皆可Supreme？？）
 
 Fade - Alen Walker
 
@@ -24,6 +24,6 @@ Fade - Alen Walker
 
 往后余生 - （歌手不详）
 
-起风了 - （歌手不详）
+起风了 - （歌手不详）（鲁班七号：我什么时候六连了？？？？）
 
-妈妈要我出嫁 - 亚历山大罗夫红旗歌舞团（好好的苏联歌曲被抖音毁了）
+妈妈要我出嫁 - 亚历山大罗夫红旗歌舞团（好好的苏联歌曲被抖音毁了？来，给抖音员工每人一张古拉格单程票。）
