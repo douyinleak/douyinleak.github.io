@@ -27,3 +27,5 @@ Fade - Alen Walker
 起风了 - （歌手不详）（鲁班七号：我什么时候六连了？？？？）
 
 妈妈要我出嫁 - 亚历山大罗夫红旗歌舞团（好好的苏联歌曲被抖音毁了？来人，把抖音全体员工送到古拉格100万年）
+
+更多歌曲请移步至[受灾歌曲名单](https://github.com/tiktokleak/list/blob/master/data.md)（数据来源：https://music.163.com/#/playlist?id=3014544450 ）
